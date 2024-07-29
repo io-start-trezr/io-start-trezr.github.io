@@ -1,4 +1,4 @@
-const bingApiKey = 'YOUR_BING_API_KEY';
+const bingApiKey = '7afdc02e9a464b4b9b9df4c4c9d39166';
 
 function search() {
     const query = document.getElementById('search-query').value;
